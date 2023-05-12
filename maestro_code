@@ -1,0 +1,11 @@
+begin
+	    5 get_position  # get the value of input 5 as a number from 0 to 1023
+    512 less_than   # test whether it is less than 512 -> 1 if true, 0 if false
+    if
+      6000 0 servo   # this part is run when input5 < 512
+		0 1 servo
+		8000 2 servo
+		8000 3 servo
+		8000 4 servo
+    endif
+repeat

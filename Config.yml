@@ -1,0 +1,36 @@
+GUI: 1
+HUD: 1
+Hold_fire: 1
+bounding_matrix:
+  0:
+    0: 100
+    1: 300
+    2: 100
+    3: 400
+  1:
+    0: 400
+    1: 450
+    2: 200
+    3: 300
+camera_init: 1
+com_port: COM3
+continue_anyway: 1
+contour_area: 50
+detect_min_height: 100
+detect_min_width: 100
+firing_interval: 30
+flip_image: 0
+manual_mode: 0
+max_servo_x: 10000
+max_servo_y: 10000
+min_servo_x: 2000
+min_servo_y: 2000
+safety: 0
+servo_init: 0
+servo_tol: 50
+speed: 50
+speed_interval: 5
+tracking_interval: 30
+video_input: 0
+x_direction_set: -1
+y_direction_set: 1
