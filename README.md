@@ -1,8 +1,8 @@
 # automated_water_turret
 Requires https://github.com/FRC4564/Maestro to work
 
-Configuration file example
-## comment
+
+## Configuration file example
 
 GUI: 1                                      ## Turns on or off the video output
 
